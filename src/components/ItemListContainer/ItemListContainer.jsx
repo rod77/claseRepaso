@@ -3,7 +3,7 @@ export const ItemListContainer = ({ greetings }) => {
 
 
     const miEstilo = {
-        color: "blue",
+        color: "red",
         margin: 20,
         fontSize: 30
     }
