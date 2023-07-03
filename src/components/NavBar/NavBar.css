@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+ul{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    list-style: none; 
+}
+
+li{
+    margin: 0 20px 0 0;
+}
